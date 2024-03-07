@@ -1,0 +1,23 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.containner{
+    width: 100%;
+    height: 1000vh;
+}
+
+.pessoal{
+    width: 180px;
+}
+
+.localidade{
+    width: 150px;
+}
+
+.contato{
+    width: 150px;
+}
+
+.login{
+    width: 150px;
+}
